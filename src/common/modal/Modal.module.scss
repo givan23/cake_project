@@ -1,0 +1,18 @@
+.ModalCake {
+    position: relative;
+    top: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--cream);
+    height: 200px;
+    font-size: 30px;
+    font-weight: 700;
+    color: var(--info);
+    flex-direction: column;
+    padding-top: 8px;
+    .img {
+        width: 60px;
+        height: 60px;
+    }
+}
